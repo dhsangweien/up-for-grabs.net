@@ -60,8 +60,8 @@ If you would like to get involved with the project, please read the
 
 ## How does the site work?
 
-If you want to learn more about the various parts of the Up-for-Grabs project,
-the [How it works](docs/how-it-works.md) document is a good overview.
+If you want to learn more about the various parts regarding the Up-for-Grabs project,
+[How it works](docs/how-it-works.md) document is a good overview.
 
 ## Contributors ✨
 
